@@ -1,0 +1,99 @@
+body {
+  float: none;
+  background-color: rgba(0, 0, 0, 0);
+  font-family: Arial, Helvetica, sans-serif;
+  color: #333;
+  font-size: 12px;
+  line-height: 20px;
+  text-align: center;
+}
+h1 {
+  margin: 10px 0px;
+  border-right-style: solid;
+  border-right-width: 0px;
+  opacity: 1;
+  font-size: 38px;
+  line-height: 44px;
+  font-weight: 700;
+}
+h2 {
+  margin: 10px 0px;
+  padding-right: 0px;
+  padding-left: 0px;
+  font-size: 26px;
+  line-height: 36px;
+  font-weight: 700;
+}
+h3 {
+  margin: 10px 0px;
+  font-size: 24px;
+  line-height: 30px;
+  font-weight: 700;
+}
+h4 {
+  margin: 10px 0px;
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: 700;
+}
+h5 {
+  margin: 10px 0px;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 700;
+}
+h6 {
+  margin: 10px 0px;
+  font-size: 12px;
+  line-height: 18px;
+  font-weight: 700;
+}
+p {
+  display: block;
+  width: 1386px;
+  margin-right: auto;
+  margin-bottom: 5px;
+  margin-left: 0px;
+  padding-right: 250px;
+  padding-left: 250px;
+  float: none;
+  direction: ltr;
+  font-size: 16px;
+  line-height: 23px;
+  font-weight: 400;
+  text-align: left;
+}
+.button {
+  display: inline-block;
+  padding: 4px 15px;
+  background-color: black;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+}
+.links {
+  padding-left: 0px;
+  font-size: 15px;
+}
+.ign {
+  padding-right: 0px;
+  padding-left: 25px;
+}
+.youtube {
+  padding-left: 25px;
+}
+.gear-patrol {
+  padding-left: 25px;
+}
+.the-awesomer {
+  padding-left: 25px;
+}
+.family-photo {
+  margin-top: 0px;
+  margin-left: 47px;
+  padding-top: 50px;
+  text-align: center;
+}
+.paragraph {
+  padding-left: 332px;
+}
