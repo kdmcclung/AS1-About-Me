@@ -1,6 +1,7 @@
 body {
   float: none;
-  background-color: rgba(0, 0, 0, 0);
+  background-color: #4d4949;
+  background-image: none;
   font-family: Arial, Helvetica, sans-serif;
   color: #333;
   font-size: 12px;
@@ -8,18 +9,23 @@ body {
   text-align: center;
 }
 h1 {
-  margin: 10px 0px;
+  margin: 10px 418px 10px 420px;
+  padding-left: 0px;
   border-right-style: solid;
   border-right-width: 0px;
+  background-color: #a10000;
   opacity: 1;
+  color: black;
   font-size: 38px;
   line-height: 44px;
   font-weight: 700;
 }
 h2 {
-  margin: 10px 0px;
+  margin: 10px 20px;
   padding-right: 0px;
   padding-left: 0px;
+  background-color: #a10000;
+  color: black;
   font-size: 26px;
   line-height: 36px;
   font-weight: 700;
@@ -51,17 +57,19 @@ h6 {
 p {
   display: block;
   width: 1386px;
-  margin-right: auto;
+  margin-right: -748px;
   margin-bottom: 5px;
-  margin-left: 0px;
-  padding-right: 250px;
-  padding-left: 250px;
+  margin-left: 208px;
+  padding-right: 487px;
+  padding-bottom: 0px;
+  padding-left: 0px;
   float: none;
+  background-color: #a10000;
   direction: ltr;
+  color: black;
   font-size: 16px;
   line-height: 23px;
   font-weight: 400;
-  text-align: left;
 }
 .button {
   display: inline-block;
@@ -73,6 +81,7 @@ p {
 }
 .links {
   padding-left: 0px;
+  background-color: transparent;
   font-size: 15px;
 }
 .ign {
@@ -89,11 +98,31 @@ p {
   padding-left: 25px;
 }
 .family-photo {
+  width: 901px;
   margin-top: 0px;
-  margin-left: 47px;
-  padding-top: 50px;
+  margin-left: 0px;
+  padding-top: 15px;
+  padding-left: 0px;
   text-align: center;
 }
 .paragraph {
   padding-left: 332px;
+}
+.header-photo {
+  margin-right: 0px;
+  padding-right: 0px;
+  padding-left: 0px;
+  text-shadow: none;
+}
+.text {
+  margin-right: 419px;
+  margin-left: 421px;
+  padding-left: 0px;
+  background-color: #a10000;
+  color: black;
+  font-size: 16px;
+}
+@media (max-width: 991px) {
+}
+@media (max-width: 767px) {
 }
