@@ -9,7 +9,7 @@ body {
   text-align: center;
 }
 h1 {
-  margin: 10px 418px 10px 420px;
+  margin: 10px 502px;
   padding-left: 0px;
   border-right-style: solid;
   border-right-width: 0px;
@@ -115,8 +115,8 @@ p {
   text-shadow: none;
 }
 .text {
-  margin-right: 419px;
-  margin-left: 421px;
+  margin-right: 503px;
+  margin-left: 503px;
   padding-left: 0px;
   background-color: #a10000;
   color: black;
